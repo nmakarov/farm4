@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nmakarov/farm4#readme",
   "dependencies": {
-    "knex": "^0.20.1",
+    "knex": "^2.4.0",
     "lastconf": "^1.5.0",
     "pg": "^7.12.1"
   }
